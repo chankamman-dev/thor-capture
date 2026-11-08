@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "ffmpeg": {
+    "version": "8.1.2",
+    "url": "https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-8.1.2-essentials_build.zip",
+    "sha256": "DB580001CAA24AC104C8CB856CD113A87B0A443F7BDF47D8C12B1D740584A2EC",
+    "checksumSource": "https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-8.1.2-essentials_build.zip.sha256",
+    "exe": "ffmpeg-8.1.2-essentials_build/bin/ffmpeg.exe",
+    "license": "GPLv3 build; development-only; never uploaded as a product artifact"
+  }
+}

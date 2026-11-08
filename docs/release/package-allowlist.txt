@@ -1,0 +1,11 @@
+# Draft exact relative paths, case-sensitive; all entries required.
+# Owner must approve self license and scrcpy bundling before this becomes releasable.
+ThorCapture.exe
+LICENSE
+THIRD-PARTY-NOTICES.md
+QUICKSTART.zh-CN.md
+QUICKSTART.en.md
+release-manifest.json
+scrcpy-server-v3.3.4
+third-party/scrcpy/LICENSE
+third-party/scrcpy/NOTICE.md

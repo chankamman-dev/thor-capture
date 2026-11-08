@@ -1,0 +1,3 @@
+DisplayInfo{"Built-in Screen", displayId 0, real 1920 x 1080, uniqueId "local:4619827259835644672"}
+DisplayInfo{"Built-in Screen", displayId 7, real 1240 x 1080, uniqueId "local:4619827259835644673"}
+DisplayInfo{"Built-in Screen", displayId 7, real 1240 x 1080, uniqueId "local:4619827259835644673"}

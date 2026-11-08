@@ -39,6 +39,7 @@ Thor 有两块屏幕，系统自带的截图只会截当前那一块，也不方
 - [从源码构建](#从源码构建)
 - [已知限制](#已知限制)
 - [更多文档](#更多文档)
+- [许可证](#许可证)
 
 ## 截图与录屏
 
@@ -206,6 +207,10 @@ third-party/scrcpy/  录系统声音用的 scrcpy-server（未修改，附许可
 - [导出图片](docs/features/image-export.md) · [掌机截图](docs/features/device-shots.md) · [写回掌机](docs/features/device-apply.md)
 - [游戏库前端](docs/LIBRARY-FRONTEND.md) · [录系统声音](docs/RECORDING-AUDIO.md) · [预览调参](docs/PREVIEW-TUNING.md)
 - [架构](docs/ARCHITECTURE.md) · [路线图](docs/ROADMAP.md) · [更新记录](CHANGELOG.md)
+
+## 许可证
+
+代码使用 [MIT 许可证](LICENSE)。打包附带的 scrcpy-server 使用 Apache License 2.0，见 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
 
 ---
 

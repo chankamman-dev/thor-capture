@@ -41,6 +41,7 @@ It's a single `ThorCapture.exe`, built against the .NET Framework that ships wit
 - [Building from source](#building-from-source)
 - [Known limitations](#known-limitations)
 - [More documentation](#more-documentation)
+- [License](#license)
 
 ## Screenshots and recordings
 
@@ -210,6 +211,10 @@ The detailed notes are written in Chinese.
 - [Image export](docs/features/image-export.md) · [Handheld screenshots](docs/features/device-shots.md) · [Writing back to the handheld](docs/features/device-apply.md)
 - [Game library frontend](docs/LIBRARY-FRONTEND.md) · [System audio](docs/RECORDING-AUDIO.md) · [Preview tuning](docs/PREVIEW-TUNING.md)
 - [Architecture](docs/ARCHITECTURE.md) · [Roadmap](docs/ROADMAP.md) · [Changelog](CHANGELOG.md)
+
+## License
+
+The code is released under the [MIT License](LICENSE). The bundled scrcpy-server is under the Apache License 2.0; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
 ---
 

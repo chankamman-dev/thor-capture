@@ -1,6 +1,6 @@
-# Third-party notices — draft
+# Third-party notices
 
-This draft describes the current source tree. It does not grant a license for Thor Capture itself; the owner's project license and copyright identity are pending.
+Thor Capture itself is released under the MIT License (see [LICENSE](LICENSE)). The components below keep their own licences.
 
 ## Included scrcpy server
 
